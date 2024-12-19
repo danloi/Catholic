@@ -1,4 +1,4 @@
-# Librerías a importar P
+# Librerías a importar Pyth
 
 import tkinter as tk
 from tkinter import ttk
